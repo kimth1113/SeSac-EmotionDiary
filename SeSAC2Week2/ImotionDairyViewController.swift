@@ -7,6 +7,10 @@
 
 import UIKit
 
+
+
+
+
 class ImotionDairyViewController: UIViewController {
 
     @IBOutlet weak var listBarButtonItem: UIBarButtonItem!
